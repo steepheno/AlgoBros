@@ -4,6 +4,7 @@ import java.util.StringTokenizer;
 public class Q_10950_B5_108ms {
 
 	public static void main(String[] args) throws IOException {
+		// 커밋 메세지 수정
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
