@@ -1,4 +1,4 @@
-# 🚀 개발세발 알고리즘 스터디
+# 🚀 개발새발 알고리즘 스터디
 
 <div align="center">
 
@@ -7,7 +7,9 @@
 ![Members](https://img.shields.io/badge/Members-3-orange?style=for-the-badge&logo=users&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Baekjoon-brightgreen?style=for-the-badge&logo=codingninjas&logoColor=white)
 
-### 💪 효율적인 진행과 꾸준한 학습을 위한 개발세발 스터디
+### 💪 효율적인 진행과 꾸준한 학습을 위한 개발새발 스터디
+
+![Main Image](./mainIMG.jpeg)
 
 ## 👨‍💻 Team Members
 
@@ -34,6 +36,7 @@
 </div>
 
 ---
+
 <div align="center">
 
 ## 🤝 스터디 공지!
@@ -42,16 +45,38 @@
 > **서로의 일정과 상황을 존중하며, 유연하고 책임감 있게 운영해 나가요!**
 
 </div>
+
 ---
 
 ## 📋 목차
 
+- [📝 규칙 0: 커밋 컨벤션](#-규칙-0-커밋-컨벤션)
 - [📚 규칙 1: 문제 풀이 진행 방식](#-규칙-1-문제-풀이-진행-방식)
 - [💰 규칙 2: 스터디 벌금 및 통장](#-규칙-2-스터디-벌금-및-통장)
 - [👥 규칙 3: 주간 모임 운영](#-규칙-3-주간-모임-운영)
 - [🍕 규칙 4: 월말 오프라인 모임](#-규칙-4-월말-오프라인-모임)
 - [📢 규칙 5: 불참 통보 및 예외 기준](#-규칙-5-불참-통보-및-예외-기준)
 - [⚡ 규칙 6: 중복 위반 시 벌금 증가](#-규칙-6-중복-위반-시-벌금-증가)
+
+---
+
+## 📝 규칙 0: 커밋 컨벤션
+
+### 🎯 기본 커밋 컨벤션
+```
+solve: 문제번호 - 문제제목
+```
+
+### 📌 예시
+- `solve: 1000 - A+B`
+- `solve: 2798 - 블랙잭`
+- `solve: 1463 - 1로 만들기`
+
+### 🔧 기타 컨벤션
+- `refactor: 문제번호 - 개선내용` (코드 리팩토링)
+- `fix: 문제번호 - 수정내용` (버그 수정)
+- `docs: 내용` (문서 작성/수정)
+- `chore: 내용` (폴더 구조 등 기타 작업)
 
 ---
 
@@ -158,8 +183,6 @@
 
 ### 🔥 Let's Code Together! 🔥
 
-![Main Image](./mainIMG.jpeg)
-
-**Made with ❤️ by 개발세발 Team**
+**Made with ❤️ by 개발새발 Team**
 
 </div>
