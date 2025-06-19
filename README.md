@@ -21,7 +21,7 @@
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/125232426?v=4" width="80px" style="border-radius: 50%;">
       <br/>
-      <b>jsun</b>
+      <b>JSun</b>
     </td>
     <td align="center">
       <img src="xxx" width="80px" style="border-radius: 50%;">
