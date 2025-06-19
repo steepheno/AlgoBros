@@ -9,8 +9,6 @@
 
 ### 💪 효율적인 진행과 꾸준한 학습을 위한 개발새발 스터디
 
-![Main Image](./mainIMG.jpeg)
-
 ## 👨‍💻 Team Members
 
 <table>
@@ -182,6 +180,8 @@ solve: 문제번호 - 문제제목
 ---
 
 ### 🔥 Let's Code Together! 🔥
+
+![Main Image](./mainIMG.jpeg)
 
 **Made with ❤️ by 개발새발 Team**
 
