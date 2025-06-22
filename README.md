@@ -183,7 +183,7 @@ Q_문제번호_티어_소요시간
 
 ### 🔥 Let's Code Together! 🔥
 
-![Main Image](./docs/img/mainIMG.jpeg)
+![Main Image](./docs/img/AlgoBrosMain.jpeg)
 
 **Made with ❤️ by 개발새발 Team**
 
