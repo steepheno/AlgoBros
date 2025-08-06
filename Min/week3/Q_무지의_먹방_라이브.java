@@ -44,7 +44,7 @@ public class Q_무지의_먹방_라이브 {
             // 현재 음식을 다 먹을 수 있는 경우
             totalTime += timeToEat;
             prevTime = currentTime;
-            pq.poll();
+            pq.poll(); // 이 음식은 다 먹었음.
         }
 
         // 더 이상 먹을 음식이 없는 경우
@@ -64,3 +64,17 @@ public class Q_무지의_먹방_라이브 {
         return remainingFoods.get(targetIndex)[1] + 1;
     }
 }
+
+
+/*
+1, 2, 3 -> 인덱스로 체크를해서
+[3, 1, 2]	5 초 /이런게 있잖아?
+
+sort해서  
+
+1. for문으로 1개1개 깎기 1차 시간초과 x
+2. sort x초동안 하는거니
+3. arr length / 
+4. 시간초과.
+/////////////////////////////////////////////////////////
+*/
